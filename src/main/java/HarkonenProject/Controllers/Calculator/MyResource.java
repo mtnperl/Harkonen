@@ -1,4 +1,4 @@
-package HarkonenProject.HarkonenProject;
+package HarkonenProject.Controllers.Calculator;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
