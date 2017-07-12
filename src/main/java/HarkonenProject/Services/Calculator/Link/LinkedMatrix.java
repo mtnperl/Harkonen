@@ -1,6 +1,6 @@
 package HarkonenProject.Services.Calculator.Link;
 
-import HarkonenProject.Services.Calculator.Matrix;
+import HarkonenProject.Services.Calculator.Impl.Matrix;
 
 public class LinkedMatrix {
 

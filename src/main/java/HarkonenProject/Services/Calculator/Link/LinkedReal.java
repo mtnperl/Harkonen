@@ -1,6 +1,6 @@
 package HarkonenProject.Services.Calculator.Link;
 
-import HarkonenProject.Services.Calculator.Real;
+import HarkonenProject.Services.Calculator.Impl.Real;
 
 public class LinkedReal {
 

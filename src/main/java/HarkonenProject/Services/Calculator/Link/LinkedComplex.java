@@ -1,6 +1,6 @@
 package HarkonenProject.Services.Calculator.Link;
 
-import HarkonenProject.Services.Calculator.Complex;
+import HarkonenProject.Services.Calculator.Impl.Complex;
 
 public class LinkedComplex {
 
